@@ -32,4 +32,4 @@
 - 데이터 설명: [data](data)
 - 풀고자 하는 문제: [examples/problem](examples/problem.ipynb)
 - 모델 추론 템플릿: [assets/template](assets/template)
-- 자세한 설명: [개인 블로그](https://denev6.github.io/projects/2025/05/24/dacon-bias.html)
+- 자세한 설명: [개인 블로그](https://denev6.github.io/posts/dacon-bias/)
